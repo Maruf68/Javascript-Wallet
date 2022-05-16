@@ -1,0 +1,147 @@
+
+
+#box{
+height: 500px;
+width: 1140px;
+background-color: #6471EB;
+margin: auto auto;
+
+}
+
+#box h2{
+    font-size: 36px;
+color: #FFFFFF;
+padding-top: 24px;
+margin-left: 42px;
+font-family: 'Poppins', sans-serif;
+font-weight: normal;
+
+}
+
+#box .addAmount{
+    margin-left: 42px;
+    outline:none;
+    padding: 15px 50px;
+    border:1px solid white;
+    border-radius: 7px;
+    background:transparent;
+
+}
+
+#box .addAmount::placeholder{
+color: white;
+font-size: 18px;
+}
+
+#box .button button{
+    margin-top: 14px;
+    margin-left: 42px;
+    padding: 12px 118px;
+    border-radius: 7px;
+    border-color: white;
+    color: #6471EB;
+
+}
+
+#box .removeAmount{
+    margin-left: 42px;
+    outline:none;
+    padding: 15px 50px;
+    border:1px solid white;
+    border-radius: 7px;
+    background:transparent;
+
+}
+
+#box .removeAmount::placeholder{
+    color: white;
+   font-size: 18px;
+}
+
+
+#box .button2 button{
+    margin-top: 14px;
+    margin-left: 42px;
+    padding: 12px 108px;
+    border-radius: 7px;
+    border-color: white;
+    color: #6471EB;
+
+}
+
+
+#box .middle .middle-text{
+    text-align: center;
+
+}
+
+
+ #box .middle{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 140px;
+} 
+
+#box .upText{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 30px;
+    background-color: white;
+      color: black;
+      width: 350px;
+      border-radius: 7px;
+}
+
+#box .downText{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 280px;
+    background-color: white;
+
+    border-radius: 7px;
+
+    width: 350px;
+    padding: 5px 8px
+}
+
+#box .upText h2{
+    color: black;  
+    margin: auto;
+    padding: 20px 35px;
+   
+}
+
+#box .downText h2{
+    color: black;
+    margin: auto;
+    padding: 15px 21px;
+
+
+}
+
+#box .total{
+ position: absolute;
+margin-left: 540px;
+margin-top: 200px;
+
+}
+
+#box .addedMoney {
+    margin-left: 150px ;
+   /* padding: 10px 10px; */
+   font-size: 25px;
+
+}
+
+
+#box .removedMoney {
+    margin-left: 150px ;
+   /* padding: 10px 10px; */
+   font-size: 25px;
+
+}
+
+#box .upText{
+    margin-bottom: 20px;
+}
+
